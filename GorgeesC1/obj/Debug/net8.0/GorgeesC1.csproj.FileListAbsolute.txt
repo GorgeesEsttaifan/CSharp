@@ -1,0 +1,14 @@
+C:\Visual Studio AOL\1\GorgeesC1\bin\Debug\net8.0\GorgeesC1.exe
+C:\Visual Studio AOL\1\GorgeesC1\bin\Debug\net8.0\GorgeesC1.deps.json
+C:\Visual Studio AOL\1\GorgeesC1\bin\Debug\net8.0\GorgeesC1.runtimeconfig.json
+C:\Visual Studio AOL\1\GorgeesC1\bin\Debug\net8.0\GorgeesC1.dll
+C:\Visual Studio AOL\1\GorgeesC1\bin\Debug\net8.0\GorgeesC1.pdb
+C:\Visual Studio AOL\1\GorgeesC1\obj\Debug\net8.0\GorgeesC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio AOL\1\GorgeesC1\obj\Debug\net8.0\GorgeesC1.AssemblyInfoInputs.cache
+C:\Visual Studio AOL\1\GorgeesC1\obj\Debug\net8.0\GorgeesC1.AssemblyInfo.cs
+C:\Visual Studio AOL\1\GorgeesC1\obj\Debug\net8.0\GorgeesC1.csproj.CoreCompileInputs.cache
+C:\Visual Studio AOL\1\GorgeesC1\obj\Debug\net8.0\GorgeesC1.dll
+C:\Visual Studio AOL\1\GorgeesC1\obj\Debug\net8.0\refint\GorgeesC1.dll
+C:\Visual Studio AOL\1\GorgeesC1\obj\Debug\net8.0\GorgeesC1.pdb
+C:\Visual Studio AOL\1\GorgeesC1\obj\Debug\net8.0\GorgeesC1.genruntimeconfig.cache
+C:\Visual Studio AOL\1\GorgeesC1\obj\Debug\net8.0\ref\GorgeesC1.dll
